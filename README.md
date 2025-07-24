@@ -21,10 +21,10 @@
 
 ## 🧠 About Me
 
-- 🎓 CS Major diving deep into **Web** & **Software Engineering**
+- 🎓 CS Major diving deep into **Front-end** & **Android app** development
 - 🛠️ Passionate about **clean UI**, **real-time systems**, and **scalable design**
-- 🔥 Love experimenting with **new tech** and building real-world projects
-- 🌱 Currently learning: `Network programming`, `Data analysis`, and `Javascript`
+- 🔥 Love experimenting with **new tech** and building **real-world projects**
+- 🌱 Currently learning: `Machine learning` & `Back-end`
 
 ---
 
@@ -45,8 +45,8 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
-
 
 
 ---
@@ -65,14 +65,31 @@
 > E-commerce platform — minimalist, responsive (WIP)  
 [🔗 GitHub Repo](https://github.com/narukami00/Shoppify)
 
+---
+
+### 🎓 UniConnect &nbsp; ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+> An AI powered academic companion built with Flutter, Olama, Gemini & Firebase  
+[🔗 GitHub Repo](https://github.com/narukami00/UniConnect)
+
+---
+
+### 🦖 DinoAI &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+> An AI model that plays the Chrome Dino game using reinforcement learning.  
+[🔗 GitHub Repo](https://github.com/narukami00/Dino-AI)
+
 <details>
   <summary>🧩 Other Cool Stuff</summary>
 
 - ✅ [GottaDo (Java)](https://github.com/narukami00/ToDoListApp)
 - 🧮 [Calculator_JS](https://github.com/narukami00/Caclulator_JS)
 - ❌⭕ [TicTacToe_JS](https://github.com/narukami00/TicTacToe_JS-)
+- 📸 [Face Recognition Attendance System](https://github.com/narukami00/Face-Recognition-Attendance) 
+- 🤖 [Professor Perpy](https://github.com/narukami00/ProfessorPerpy)
 
 </details>
+
 
 ---
 
@@ -104,7 +121,7 @@
 ## 📫 Reach Out
 
 - 📧 Email: **riasat1011@gmail.com**
-- 🌐 Portfolio: _coming soon_
+- 🌐 Portfolio: **https://narukami00.github.io/portfolio_react/**
 
 ---
 
