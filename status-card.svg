@@ -6,7 +6,7 @@
   <!-- Row 1 — Building -->
   <circle cx="24" cy="26" r="4" fill="#B8D4E8" opacity="0.9"/>
   <text x="38" y="30" font-family="monospace" font-size="10" fill="#555555" letter-spacing="0.08em">BUILDING</text>
-  <text x="120" y="30" font-family="monospace" font-size="10" fill="#F5F5F5">Personal Portfolio v2</text>
+  <text x="120" y="30" font-family="monospace" font-size="10" fill="#F5F5F5">UniConnect 1.3</text>
 
   <!-- Divider -->
   <line x1="16" y1="44" x2="364" y2="44" stroke="#1e1e1e" stroke-width="1"/>
@@ -14,5 +14,5 @@
   <!-- Row 2 — Learning -->
   <circle cx="24" cy="58" r="4" fill="#B8D4E8" opacity="0.4"/>
   <text x="38" y="62" font-family="monospace" font-size="10" fill="#555555" letter-spacing="0.08em">LEARNING</text>
-  <text x="120" y="62" font-family="monospace" font-size="10" fill="#F5F5F5">Framer Motion & Firebase</text>
+  <text x="120" y="62" font-family="monospace" font-size="10" fill="#F5F5F5">System Design</text>
 </svg>
