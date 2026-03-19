@@ -6,7 +6,7 @@ CS Student &nbsp;·&nbsp; Android & Frontend Developer &nbsp;·&nbsp; AI/ML Enth
 
 &nbsp;
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rafsan.dev-B8D4E8?style=flat-square&labelColor=0a0a0a)](https://rafsan-riasat.web.app/)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-B8D4E8?style=flat-square&labelColor=0a0a0a)](https://www.linkedin.com/in/rafsan-riasat-215689370)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-riasat1011@gmail.com-B8D4E8?style=flat-square&labelColor=0a0a0a)](mailto:riasat1011@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rafsan--riasat.web.app-B8D4E8?style=flat-square&labelColor=0a0a0a)](https://rafsan-riasat.web.app/)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-B8D4E8?style=flat-square&labelColor=0a0a0a)](https://www.linkedin.com/in/rafsan-riasat-215689370)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-riasat1011@gmail.com-B8D4E8?style=flat-square&labelColor=0a0a0a)](mailto:riasat1011@gmail.com)
 
 </div>
 
