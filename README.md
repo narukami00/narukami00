@@ -23,7 +23,7 @@ Tools        Firebase · PostgreSQL · Git
 &nbsp;
 
 <div align="center">
-  <img src="status-card.svg" alt="Current Status" />
+  <img src="https://raw.githubusercontent.com/narukami00/narukami00/main/status-card.svg" alt="Current Status" />
 </div>
 
 &nbsp;
