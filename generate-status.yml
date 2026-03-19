@@ -1,0 +1,34 @@
+name: Generate Status Card
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'status.json' # only runs when you actually change your status
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # needed to commit the generated SVG back
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate status card SVG
+        run: node scripts/generate-status.js
+
+      - name: Commit and push SVG
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add status-card.svg
+          git diff --staged --quiet || git commit -m "chore: update status card"
+          git push
