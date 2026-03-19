@@ -6,7 +6,7 @@ CS Student &nbsp;·&nbsp; Android & Frontend Developer &nbsp;·&nbsp; AI/ML Enth
 
 &nbsp;
 
-[![Portfolio](https://img.shields.io/badge/portfolio-rafsan.dev-B8D4E8?style=flat-square&labelColor=111111&color=1e1e1e&logoColor=B8D4E8)](https://narukami00.github.io/portfolio_react/)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-connect-B8D4E8?style=flat-square&labelColor=111111&color=1e1e1e)](https://www.linkedin.com/in/rafsan-riasat-215689370)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/email-riasat1011@gmail.com-B8D4E8?style=flat-square&labelColor=111111&color=1e1e1e)](mailto:riasat1011@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rafsan.dev-B8D4E8?style=flat-square&labelColor=0a0a0a)](https://rafsan-riasat.web.app/)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-B8D4E8?style=flat-square&labelColor=0a0a0a)](https://www.linkedin.com/in/rafsan-riasat-215689370)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-riasat1011@gmail.com-B8D4E8?style=flat-square&labelColor=0a0a0a)](mailto:riasat1011@gmail.com)
 
 </div>
 
@@ -23,14 +23,14 @@ Tools        Firebase · PostgreSQL · Git
 &nbsp;
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/narukami00/narukami00/main/status-card.svg" alt="Current Status" />
+  <img src="https://raw.githubusercontent.com/narukami00/narukami00/main/status-card.svg" alt="Current Status" width="480" />
 </div>
 
 &nbsp;
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=narukami00&bg_color=0a0a0a&color=555555&line=B8D4E8&point=B8D4E8&area=true&area_color=B8D4E8&hide_border=true&radius=4"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=narukami00&bg_color=0a0a0a&color=555555&line=B8D4E8&point=B8D4E8&area=true&area_color=B8D4E8&hide_border=true&radius=4&hide_title=true"
     alt="Contribution Activity"
     width="95%"
   />
@@ -40,7 +40,7 @@ Tools        Firebase · PostgreSQL · Git
 
 <div align="center">
   <sub>
-    <a href="https://narukami00.github.io/portfolio_react/">narukami00</a>
+    <a href="https://rafsan-riasat.web.app/">narukami00</a>
     &nbsp;·&nbsp;
     Chittagong, Bangladesh
   </sub>
