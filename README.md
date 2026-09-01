@@ -18,9 +18,9 @@ CS Student &nbsp;·&nbsp; Android & Frontend Developer &nbsp;·&nbsp; AI/ML Enth
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/narukami00/narukami00/main/profile-graph.svg"
-    alt="Contribution Activity"
-    width="95%"
+    src="https://streak-stats.demolab.com?user=narukami00&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=B8D4E8&fire=B8D4E8&currStreakLabel=B8D4E8&sideNums=e6edf3&sideLabels=7d8590&dates=484f58&hide_border=false"
+    alt="GitHub Streak & Contribution Stats"
+    width="490"
   />
 </div>
 
