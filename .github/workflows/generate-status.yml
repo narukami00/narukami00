@@ -1,17 +1,20 @@
-name: Generate Status Card
+name: Generate Status Card and Graph
 
 on:
   push:
     branches: [main]
     paths:
-      - 'status.json' # only runs when you actually change your status
+      - 'status.json'
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write # needed to commit the generated SVG back
+      contents: write
 
     steps:
       - name: Checkout
@@ -25,10 +28,27 @@ jobs:
       - name: Generate status card SVG
         run: node scripts/generate-status.js
 
-      - name: Commit and push SVG
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: narukami00
+          output: profile-graph.svg
+          bg_color: "0a0a0a"
+          color: "555555"
+          line: "B8D4E8"
+          point: "B8D4E8"
+          area: true
+          area_color: "B8D4E8"
+          hide_border: true
+          radius: 4
+          hide_title: true
+
+      - name: Commit and push generated assets
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add status-card.svg
-          git diff --staged --quiet || git commit -m "chore: update status card"
+          git add status-card.svg profile-graph.svg
+          git diff --staged --quiet || git commit -m "chore: update status card and activity graph"
           git push
+

@@ -18,7 +18,7 @@ CS Student &nbsp;·&nbsp; Android & Frontend Developer &nbsp;·&nbsp; AI/ML Enth
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=narukami00&bg_color=0a0a0a&color=555555&line=B8D4E8&point=B8D4E8&area=true&area_color=B8D4E8&hide_border=true&radius=4&hide_title=true"
+    src="https://raw.githubusercontent.com/narukami00/narukami00/main/profile-graph.svg"
     alt="Contribution Activity"
     width="95%"
   />

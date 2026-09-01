@@ -1,7 +1,11 @@
-﻿# Local orchestrator & workflow automation files
+# Local orchestrator & workflow automation files
 AGENTS.md
 *.bat
 checkin.bat
+*.ico
+*.lnk
+
+
 
 # OS & Environment artifacts
 .gemini/
