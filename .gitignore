@@ -1,0 +1,11 @@
+﻿# Local orchestrator & workflow automation files
+AGENTS.md
+*.bat
+checkin.bat
+
+# OS & Environment artifacts
+.gemini/
+__pycache__/
+*.pyc
+.vscode/
+.idea/

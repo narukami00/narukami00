@@ -10,20 +10,8 @@ CS Student &nbsp;·&nbsp; Android & Frontend Developer &nbsp;·&nbsp; AI/ML Enth
 
 </div>
 
-&nbsp;
-
-```
-Languages    C · C++ · Python · Java · JavaScript · Dart · TypeScript
-Mobile       Flutter · Android Studio
-Web          React · Node.js · HTML · CSS
-ML           PyTorch · Reinforcement Learning · Stable Baselines3
-Tools        Firebase · PostgreSQL · Git
-```
-
-&nbsp;
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/narukami00/narukami00/main/status-card.svg" alt="Current Status" width="480" />
+  <img src="https://raw.githubusercontent.com/narukami00/narukami00/main/status-card.svg" alt="Current Status" width="490" />
 </div>
 
 &nbsp;
